@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+config.yml
+device.json
+
+CQHTTP/data
+CQHTTP/logs
